@@ -1,0 +1,420 @@
+[2025-09-24 17:33:23] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-09-24_173323.pdf
+    [type] => application/pdf
+    [size] => 368761
+)
+
+[2025-09-24 17:33:23] File details
+Array
+(
+    [name] => Pintado_9500_2025-09-24_173323.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 368761
+    [tmp_name] => C:\xampp\tmp\php997B.tmp
+)
+
+[2025-09-24 17:33:29] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2878964f8f0)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68d40f4370f8b
+accept: application/json
+content-length: 368950
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 3f68907312f51bdaaa772355d9e2aa83
+< date: Wed, 24 Sep 2025 15:33:29 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-09-24 17:33:29] API Response
+Array
+(
+    [sourceId] => src_EU7Q1PmxmvPcQL3h7nPaF
+)
+
+[2025-09-24 18:20:21] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-09-24_182021.pdf
+    [type] => application/pdf
+    [size] => 368764
+)
+
+[2025-09-24 18:20:21] File details
+Array
+(
+    [name] => Pintado_9500_2025-09-24_182021.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 368764
+    [tmp_name] => C:\xampp\tmp\php994D.tmp
+)
+
+[2025-09-24 18:20:29] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x287897faff0)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68d41a456e737
+accept: application/json
+content-length: 368953
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 22180df2158020946e4b306359a21f0a;o=1
+< date: Wed, 24 Sep 2025 16:20:28 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-09-24 18:20:29] API Response
+Array
+(
+    [sourceId] => src_IaI2WPIMa5QDUJCbVIM4a
+)
+
+[2025-09-24 18:42:24] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-09-24_184224.pdf
+    [type] => application/pdf
+    [size] => 368760
+)
+
+[2025-09-24 18:42:24] File details
+Array
+(
+    [name] => Pintado_9500_2025-09-24_184224.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 368760
+    [tmp_name] => C:\xampp\tmp\phpC7FF.tmp
+)
+
+[2025-09-24 18:42:31] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x28789676360)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68d41f7020455
+accept: application/json
+content-length: 368949
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 7303f59479aa69ca18950183bfc70c35;o=1
+< date: Wed, 24 Sep 2025 16:42:31 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-09-24 18:42:31] API Response
+Array
+(
+    [sourceId] => src_bsAi5LUeqdPwq8EjHgYd6
+)
+
+[2025-09-24 20:49:05] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-09-24_204905.pdf
+    [type] => application/pdf
+    [size] => 370862
+)
+
+[2025-09-24 20:49:05] File details
+Array
+(
+    [name] => Pintado_9500_2025-09-24_204905.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 370862
+    [tmp_name] => C:\xampp\tmp\phpC6C4.tmp
+)
+
+[2025-09-24 20:49:11] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2878968e160)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68d43d21eefcb
+accept: application/json
+content-length: 371051
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 9705687830bb6a81e00602ee6d8eeb3d;o=1
+< date: Wed, 24 Sep 2025 18:49:10 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-09-24 20:49:11] API Response
+Array
+(
+    [sourceId] => src_DbSYnIPen0FlPuacGqRIv
+)
+
+[2025-10-01 00:34:24] Uploading file
+Array
+(
+    [name] => Roky_9500_2025-10-01_003424.pdf
+    [type] => application/pdf
+    [size] => 384832
+)
+
+[2025-10-01 00:34:24] File details
+Array
+(
+    [name] => Roky_9500_2025-10-01_003424.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 384832
+    [tmp_name] => C:\xampp\tmp\php8D0.tmp
+)
+
+[2025-10-01 00:34:31] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1c546ef1960)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dc5af03085e
+accept: application/json
+content-length: 385018
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 2fd03df454bd7d1e19d567eba2c386a1
+< date: Tue, 30 Sep 2025 22:34:33 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 00:34:31] API Response
+Array
+(
+    [sourceId] => src_EGbtgBxhrEwlty01W6FKX
+)
+
+[2025-10-01 00:45:50] Chat Request
+Array
+(
+    [sourceId] => src_KuEL7bAXvBifZ0MtKmrvX
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Nombre de este animal
+                )
+
+        )
+
+)
+
+[2025-10-01 00:45:51] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 09c9ab7d25b5a1878225db5701bd579b
+date: Tue, 30 Sep 2025 22:45:53 GMT
+server: Google Frontend
+content-length: 50
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-01 00:45:51] API Response Body
+{"content":"El nombre del animal es \"Pintado\"."}
+[2025-10-01 14:43:36] Chat Request
+Array
+(
+    [sourceId] => src_fpjX9BV1rTf7z2bjWDXO9
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Nombre del animal y edad
+                )
+
+        )
+
+)
+
+[2025-10-01 14:43:37] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 5800379576bbba8a5bbe5ddf89bae55f;o=1
+date: Wed, 01 Oct 2025 12:43:40 GMT
+server: Google Frontend
+content-length: 131
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-01 14:43:37] API Response Body
+{"content":"El nombre del animal es Roky y su edad es de aproximadamente 2 años y 9 meses, ya que nació el 16 de enero de 2023."}
+[2025-10-04 13:33:20] Chat Request
+Array
+(
+    [sourceId] => src_uEznpEW5TdEm0LFbmsUdC
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => nombre y edad
+                )
+
+        )
+
+)
+
+[2025-10-04 13:33:21] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 0ff66226e14faeda2cf9dcf2e3607d51
+date: Sat, 04 Oct 2025 11:33:19 GMT
+server: Google Frontend
+content-length: 96
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-04 13:33:21] API Response Body
+{"content":"El nombre es Roky y tiene 2 años y 9 meses, ya que nació el 16 de enero de 2023."}
